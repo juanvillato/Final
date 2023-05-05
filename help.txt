@@ -1,3 +1,5 @@
 archivo de ayuda creado en main branch
 
 this is the configuration file for help
+
+fist parameter = false
